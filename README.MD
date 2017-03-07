@@ -1,30 +1,3 @@
-# node
-
-# package.json
-
-
-
-## 安装依赖包 npm install
-
-npm install 
-- --save 本地安装 运行依赖
-- --save-dev 本地安装 开发依赖
-- -g        全局安装
-
-```
-
-标准形式
-npm install express
-
-简写形式
-npm i express
-npm i -g express
-
-
-
-```
-
-
 
 # 学习资源
 
