@@ -39,6 +39,6 @@
 # 异步事件流
 [RactiveX中文文档](https://buctwbzs.gitbooks.io/rxjs/content/rookie-primer.html) 强烈推荐 一个结合了函数式编程的处理异步编程的编程模型or思想
 
-[RxJS 中文](http://rxjs-china.org/_book/)
+[RxJS 中文--操作器手册](http://rxjs-china.org/_book/)
 
 [101 Rx Samples](http://rxwiki.wikidot.com/101samples)
