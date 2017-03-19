@@ -35,3 +35,5 @@
 [sequlizejs中文笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html)
 [mongoose官方文档](https://www.gitbook.com/book/xiaoxiami/mongoose/details)
 
+# 异步事件流
+[RxJS中文文档](https://buctwbzs.gitbooks.io/rxjs/content/rookie-primer.html) 强烈推荐 一个结合了函数式编程的处理异步编程的编程模型or思想
